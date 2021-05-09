@@ -1,6 +1,6 @@
 Static Website Example
 ----------------------
-
+Simple change
 To be used with Cloud Academy labs.
 
 
